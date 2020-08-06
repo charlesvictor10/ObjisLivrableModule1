@@ -1,5 +1,5 @@
 # ObjisLivrableModule1
-Gestion ressources humaines est une applicatio permettant de comprendre les points suivants:
+Gestion ressources humaines est une application permettant de comprendre les points suivants:
 - la syntaxe des boucles et conditions
 - la création de classes et d'objets
 - la surchage
